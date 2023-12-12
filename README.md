@@ -1,4 +1,10 @@
 # Alfred YouTube Subscribers
+![GitHub release (with filter)](https://img.shields.io/github/v/release/svebeh/alfred_youtube_subscribers)
+![GitHub all releases](https://img.shields.io/github/downloads/svebeh/alfred_youtube_subscribers/total)
+![GitHub License](https://img.shields.io/github/license/svebeh/alfred_youtube_subscribers)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7-CdaMugaqytELbE1L4YUA)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7-CdaMugaqytELbE1L4YUA)
+
 shows you the current number of subscribers, video views and number of videos on a YouTube channel.
 
 ## Download and installation
