@@ -1,4 +1,4 @@
-# Alfred YouTube Subscribers
+# Alfred YouTube Subscribers Workflow
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/svebeh/alfred_youtube_subscribers)
 ![GitHub all releases](https://img.shields.io/github/downloads/svebeh/alfred_youtube_subscribers/total)
 ![GitHub License](https://img.shields.io/github/license/svebeh/alfred_youtube_subscribers)
