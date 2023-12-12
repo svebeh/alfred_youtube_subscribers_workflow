@@ -2,7 +2,7 @@
 shows you the current number of subscribers, video views and number of videos on a YouTube channel.
 
 ## Download and installation
-Download the [latest workflow release][gh-latest-release] from GitHub. Open the workflow file to install in Alfred.
+Download the [latest workflow release](https://github.com/svebeh/alfred_youtube_subscribers/releases) from GitHub. Open the workflow file to install in Alfred.
 The keyword "subs" shows you the current number of subscribers, video views and number of videos on a YouTube channel.
 
 ![screenshot_01.png](images%2Fscreenshot_01.png)
